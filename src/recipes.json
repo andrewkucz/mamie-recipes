@@ -1,0 +1,319 @@
+[
+  {
+    "name": "Waffles",
+    "slug": "waffles",
+    "ingredients": [
+      "10 eggs (separated)",
+      "1 lb. margarine",
+      "3 cups sugar",
+      "1 pinch salt",
+      "1/2 tsp baking soda",
+      "1 cup milk",
+      "5 cups flour"
+    ],
+    "directions": [
+      "In a large bowl, mix egg yolks, margarine, and sugar with a large wooden spoon",
+      "Add flour, baking soda, salt, and milk; mix until combined",
+      "In a separate bowl, beat egg whites until stiff peaks form",
+      "Gently fold the beaten egg whites into the primary mixture",
+      "Mix gently until just combined",
+      "Cook waffles according to your waffle iron’s instructions until golden brown"
+    ]
+  },
+  {
+    "name": "Snickerdoodles",
+    "slug": "snickerdoodles",
+    "ingredients": [
+      "1 1/2 cups sugar",
+      "1/2 cup margarine or butter, softened",
+      "1/2 cup shortening",
+      "2 eggs",
+      "2 3/4 cups flour",
+      "2 tsp cream of tartar",
+      "1 tsp baking soda",
+      "1/4 tsp salt",
+      "3 tbsp sugar",
+      "1 tbsp ground cinnamon"
+    ],
+    "directions": [
+      "Preheat the oven to 400°F",
+      "In a large bowl, mix 1 1/2 cups sugar, margarine, shortening, and eggs until well blended",
+      "Stir in flour, cream of tartar, baking soda, and salt",
+      "Shape dough into balls using rounded tablespoons",
+      "In a small bowl, mix 3 tbsp sugar and cinnamon. Roll each dough ball in the cinnamon-sugar mixture",
+      "Place balls about 2 inches apart on an ungreased cookie sheet",
+      "Bake 8 to 10 minutes, or until set",
+      "Immediately remove from cookie sheet and cool completely on a wire rack"
+    ]
+  },
+  {
+    "name": "Mud Cake",
+    "slug": "mud-cake",
+    "ingredients": [
+      "1 3/4 cups flour",
+      "1 cup brown sugar",
+      "1 cup sugar",
+      "3/4 cup cocoa powder",
+      "2 tsp baking soda",
+      "1 tsp magic baking powder",
+      "4 tsp salt",
+      "2 eggs",
+      "2 cups oil",
+      "1 cup water",
+      "2 tsp coffee (mixed with water)",
+      "1 cup sour cream"
+    ],
+    "directions": [
+      "Preheat the oven to 350°F",
+      "In a large bowl, mix flour, brown sugar, sugar, cocoa, baking soda, baking powder, and salt with a fork",
+      "Add eggs, oil, water with coffee, and sour cream. Mix until combined",
+      "Pour the mixture into a 9 x 13-inch pan",
+      "Bake for 45 minutes, or until a toothpick inserted in the center of the cake comes out clean"
+    ]
+  },
+  {
+    "name": "Chocolate Chip Muffins",
+    "slug": "chocolate-chip-muffins",
+    "ingredients": [
+      "2 cups flour",
+      "1/2 tsp baking powder",
+      "1/2 tsp salt",
+      "1 cup sour cream",
+      "1 tsp baking soda",
+      "1/2 cup butter",
+      "1 cup sugar",
+      "2 eggs",
+      "1 tsp vanilla extract",
+      "3/4 cup chocolate chips"
+    ],
+    "directions": [
+      "Preheat the oven to 350°F",
+      "In a first bowl, sift together the flour, baking powder, and salt",
+      "In a second bowl, combine the sour cream and baking soda",
+      "In a third bowl, beat the butter and sugar until light and fluffy",
+      "Add the eggs and vanilla extract to the butter mixture and beat until combined",
+      "Gradually mix in the dry ingredients and the sour cream mixture, beginning and ending with the dry ingredients",
+      "Fold in the chocolate chips with a large wooden spoon",
+      "Pour batter into muffin tins and bake. 20 minutes for mini muffins. 25–30 minutes for regular muffins",
+      "Allow to cool slightly before serving"
+    ]
+  },
+  {
+    "name": "Banana Bread",
+    "slug": "banana-bread",
+    "ingredients": [
+      "3/4 cup sugar",
+      "1 1/2 cups mashed bananas (about 3 large)",
+      "3/4 cup vegetable oil",
+      "2 eggs",
+      "2 cups flour",
+      "1/2 cup chopped nuts",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon baking powder",
+      "1/2 teaspoon salt",
+      "2 teaspoons vanilla"
+    ],
+    "directions": [
+      "Preheat oven to 325°F",
+      "Grease a loaf pan (9 × 5 × 3 inches or 8 1/2 × 4 1/2 × 2 1/2 inches) with shortening",
+      "In a large bowl, mix sugar, bananas, oil, and eggs with a wooden spoon",
+      "Stir in remaining ingredients and pour batter into prepared pan",
+      "Bake until a wooden toothpick inserted in the center comes out clean, about 60–70 minutes",
+      "Let cool for 10 minutes, then loosen sides of loaf from pan and remove",
+      "Let cool completely before slicing"
+    ]
+  },
+  {
+    "name": "Peanut Blossom Cookies",
+    "slug": "peanut-blossom-cookies",
+    "ingredients": [
+      "1 (14-ounce) can sweetened condensed milk (not evaporated milk)",
+      "3/4 cup peanut butter",
+      "1 egg",
+      "1 tsp vanilla extract",
+      "2 cups Bisquick® biscuit baking mix",
+      "Sugar, for rolling",
+      "Approximately 60 milk chocolate kisses (one per cookie)"
+    ],
+    "directions": [
+      "Preheat the oven to 350°F",
+      "In a mixing bowl, beat sweetened condensed milk, peanut butter, egg, and vanilla until smooth",
+      "Add the biscuit mix and mix well",
+      "Chill the dough for at least one hour",
+      "Shape the dough into 1-inch balls",
+      "Roll each ball in sugar",
+      "Place cookies about 2 inches apart on an ungreased cookie sheet",
+      "Bake for 10–12 minutes or until lightly browned",
+      "Immediately after baking, press a chocolate kiss into the center of each cookie",
+      "Let cool and store tightly covered at room temperature"
+    ]
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "slug": "chocolate-chip-cookies",
+    "ingredients": [
+      "3/4 cup granulated sugar",
+      "3/4 cup packed brown sugar",
+      "1 cup margarine or butter, softened",
+      "1 egg",
+      "2 1/4 cups all-purpose flour",
+      "1 tsp baking soda",
+      "1/2 tsp salt",
+      "1 package (2 cups) semisweet chocolate chips"
+    ],
+    "directions": [
+      "Preheat the oven to 375°F",
+      "In a large bowl, mix granulated sugar, brown sugar, margarine or butter, and egg with a wooden spoon",
+      "Stir in flour, baking soda, and salt (dough will be stiff). Stir in chocolate chips",
+      "Drop rounded dough (about 1 tablespoon) 3 inches apart onto an ungreased cookie sheet",
+      "Bake until light brown, about 8 to 10 minutes (centers will be soft)",
+      "Let cookies cool slightly, then remove from the cookie sheet with a spatula"
+    ]
+  },
+  {
+    "name": "Peanut Butter Cookies",
+    "slug": "peanut-butter-cookies",
+    "ingredients": [
+      "3/4 cup peanut butter",
+      "1/2 cup shortening",
+      "1 1/4 cups brown sugar",
+      "3 tbsp milk",
+      "1 tbsp vanilla",
+      "1 egg",
+      "1 3/4 cups flour",
+      "1/3 tsp salt",
+      "3/4 tsp baking soda"
+    ],
+    "directions": [
+      "Preheat oven to 375°F",
+      "In a large bowl, combine peanut butter, shortening, brown sugar, milk, and vanilla; beat until well blended",
+      "Add egg and beat just until blended",
+      "In a separate bowl, combine flour, salt, and baking soda",
+      "Add the flour mixture to the creamed mixture; mix just until blended",
+      "Drop dough (about 1 tbsp) two inches apart onto an ungreased cookie sheet",
+      "Flatten slightly in a crisscross pattern with a fork",
+      "Bake 7 to 8 minutes, or until beginning to brown",
+      "Let cool 2 minutes on the baking sheet, then transfer cookies to a wire rack to cool completely"
+    ]
+  },
+  {
+    "name": "Peanut Butter Cup Muffin-cookies",
+    "slug": "peanut-butter-cup-muffin-cookies",
+    "ingredients": [
+      "3/4 cup peanut butter",
+      "1/2 cup shortening",
+      "1 1/4 cups brown sugar",
+      "3 tbsp milk",
+      "1 tbsp vanilla",
+      "1 egg",
+      "1 3/4 cups flour",
+      "3/4 tsp salt",
+      "3/4 tsp baking soda",
+      "2 packages mini Reese's peanut butter cups"
+    ],
+    "directions": [
+      "Preheat oven to 375°F",
+      "In a large bowl, combine peanut butter, shortening, brown sugar, milk, and vanilla; beat until well blended",
+      "Add egg and beat just until blended",
+      "In a separate bowl, combine flour, salt, and baking soda",
+      "Gradually add the dry ingredients to the creamed mixture; mix just until blended",
+      "Drop dough (about 1 tablespoon each) into an ungreased mini muffin pan",
+      "Bake 7–8 minutes, or until edges begin to brown",
+      "Immediately press an unwrapped mini peanut butter cup into the center of each cookie",
+      "Remove from pan and let cool completely"
+    ]
+  },
+  {
+    "name": "Texas Sheet Cake",
+    "slug": "texas-sheet-cake",
+    "ingredients": [
+      "2 cups flour",
+      "2 cups sugar",
+      "1 cup water",
+      "2 cups vegetable oil",
+      "1/4 cup unsweetened cocoa powder",
+      "2 eggs",
+      "1/2 cup buttermilk",
+      "1 tsp baking soda",
+      "1 tsp vanilla extract",
+      "1/2 tsp salt",
+      "5 tbsp fat-free (skim) milk",
+      "1/4 cup unsweetened cocoa powder",
+      "2 tbsp vegetable oil",
+      "3 cups powdered sugar",
+      "1 tsp vanilla extract"
+    ],
+    "directions": [
+      "Preheat the oven to 350°F",
+      "Spray a 10 1/2 x 15 1/2-inch pan with nonstick cooking spray",
+      "Combine flour and sugar in a small bowl; set aside",
+      "In a medium saucepan, heat water, vegetable oil, and cocoa powder over medium heat; bring to a boil, stirring occasionally. Using a whisk, stir in the flour mixture",
+      "Add eggs, buttermilk, baking soda, vanilla, and salt; mix well. Pour into prepared pan",
+      "Bake 22–25 minutes or until a wooden toothpick inserted in the center comes out clean",
+      "Cool 10 minutes before frosting",
+      "In a large microwave-safe bowl, combine milk, cocoa powder, and vegetable oil. Microwave on HIGH for 45 seconds or until oil is melted; whisk until smooth",
+      "Add powdered sugar and vanilla; whisk until smooth",
+      "Spread frosting over warm cake using a large scraper",
+      "Let cool completely. Cut into squares. Store in a tightly covered container in the refrigerator"
+    ]
+  },
+  {
+    "name": "Crispix Mix Sweet Minglers",
+    "slug": "crispix-mix-sweet-minglers",
+    "ingredients": [
+      "1 package (6 oz or 1 cup) semisweet chocolate chips",
+      "1/4 cup peanut butter",
+      "6 cups Kellogg’s Crispix cereal",
+      "1 cup powdered sugar"
+    ],
+    "directions": [
+      "In a large microwave-safe bowl, melt chocolate at HIGH for 1 minute. Stir and heat an additional 30 seconds at HIGH, or until melted. Stir in peanut butter. Gently stir Kellogg’s Crispix cereal into the chocolate–peanut butter mixture until well coated",
+      "Place powdered sugar in a 2-gallon storage container. Add coated cereal, close the container, and gently toss until well coated"
+    ]
+  },
+  {
+    "name": "Fudge Brownies",
+    "slug": "fudge-brownies",
+    "ingredients": [
+      "1/4 cup margarine or butter",
+      "1 package (1 cup) semisweet chocolate chips",
+      "1 1/4 cups sugar",
+      "2/3 cup flour",
+      "1/2 tsp vanilla extract",
+      "1/4 tsp baking powder",
+      "2 eggs",
+      "1/2 cup chopped nuts (optional)",
+      "1/2 cup semisweet chocolate chips (optional)"
+    ],
+    "directions": [
+      "Preheat the oven to 350°F",
+      "Grease the bottom only of an 8x8x2-inch square pan with shortening",
+      "In a 2-quart saucepan over low heat, melt the margarine and 1 cup semisweet chocolate chips, stirring constantly. Remove from heat",
+      "Stir in the sugar, flour, vanilla extract, baking powder, and eggs with a wooden spoon until smooth",
+      "Fold in the nuts and remaining 1/2 cup semisweet chocolate chips, if desired",
+      "Spread the batter evenly in the prepared pan using a rubber scraper",
+      "Bake for approximately 30 minutes, until the center is set",
+      "Let brownies cool completely, then cut into squares. Store tightly covered"
+    ]
+  },
+  {
+    "name": "O'Henry Bites",
+    "slug": "o-henry-bites",
+    "ingredients": [
+      "1 cup golden brown sugar",
+      "1 cup corn syrup",
+      "1 cup peanut butter",
+      "2 cups Rice Krispies",
+      "1/2 cup salted blanched peanuts",
+      "Milk chocolate"
+    ],
+    "directions": [
+      "Melt brown sugar, corn syrup, and peanut butter in a saucepan over low heat (do not boil)",
+      "Remove from heat and stir in Rice Krispies and peanuts",
+      "Mix all ingredients thoroughly",
+      "Shape mixture into small balls",
+      "Dip the balls in slowly melted milk chocolate (use the 'defrost' mode if using a microwave)",
+      "Place chocolate-coated balls in the freezer for approximately 5 minutes to set"
+    ]
+  }
+]

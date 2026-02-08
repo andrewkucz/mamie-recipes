@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+	body {
+		@apply bg-amber-50 text-slate-800;
+	}
+	a {
+		@apply underline underline-offset-4 transition decoration-slate-500 decoration-dotted;
+	}
+
+	@media (prefers-color-scheme: dark) {
+		body {
+			@apply bg-slate-700 text-amber-50;
+		}
+    a {
+      @apply decoration-amber-100;
+    }
+	}
+}
