@@ -315,5 +315,24 @@
       "Dip the balls in slowly melted milk chocolate (use the 'defrost' mode if using a microwave)",
       "Place chocolate-coated balls in the freezer for approximately 5 minutes to set"
     ]
+  },
+  {
+    "name": "Crepes",
+    "slug": "crepes",
+    "ingredients": [
+      "1 cup flour",
+      "2 eggs",
+      "3/4 cup milk",
+      "1/2 cup water",
+      "3 tbsp butter (melted)"
+    ],
+    "directions": [
+      "Heat pan to 325-375 degrees F",
+      "Wipe pan with butter or neutral oil using a paper towel",
+      "Pour a thin layer of batter, then immediately swirl to coat the pan",
+      "Cook side 1 for about 45-90 seconds, until the top looks mostly dry and edges lift",
+      "Flip and cook side 2 for 15-30 seconds",
+      "Between crepes, re-grease lightly every few crepes, or whenever sticking starts"
+    ]
   }
 ]
