@@ -334,5 +334,32 @@
       "Flip and cook side 2 for 15-30 seconds",
       "Between crepes, re-grease lightly every few crepes, or whenever sticking starts"
     ]
+  },
+  {
+    "name": "Cherry Cookies",
+    "slug": "cherry-cookies",
+    "ingredients": [
+      "3/4 cup unsalted butter, softened to room temperature",
+      "2/3 cup granulated sugar",
+      "1 tsp pure vanilla extract",
+      "1/2 tsp almond extract",
+      "1 tbsp maraschino cherry juice",
+      "2 cups all-purpose flour, spooned and leveled",
+      "16 maraschino cherries, drained and chopped",
+      "4 oz white chocolate (optional)"
+    ],
+    "directions": [
+      "Using a handheld or stand mixer with a paddle attachment, beat butter on high speed until creamy, about 1 minute",
+      "Reduce to medium speed and add sugar, vanilla extract, and almond extract. Scrape down the sides and bottom of the bowl as needed",
+      "With the mixer on high, slowly drizzle in the cherry juice and beat for 1 minute",
+      "Turn off the mixer and add flour. Mix on low speed until a very soft dough forms",
+      "Add chopped cherries and mix on low speed just until evenly distributed",
+      "Press dough down to compact it, cover tightly with plastic wrap, and refrigerate until firm, at least 4 hours and up to 3 days",
+      "Preheat the oven to 350°F. Line two baking sheets with parchment paper or silicone baking mats (preferred to reduce spreading)",
+      "Shape dough into smooth balls using about 1 tablespoon of dough per ball. If the dough becomes sticky or soft, refrigerate the balls until firm before baking",
+      "Bake for 11–12 minutes, or until edges are very lightly browned. Do not overbake",
+      "Let cookies cool on the baking sheet for 5 minutes, then transfer to a wire rack. Cool for at least 30 minutes before drizzling with white chocolate",
+      "If desired, melt white chocolate in the microwave in 20-second increments, stirring after each increment until melted. Drizzle over the cooled cookies"
+    ]
   }
 ]
